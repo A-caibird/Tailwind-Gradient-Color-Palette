@@ -45,7 +45,7 @@ export default function RootLayout({ children }) {
 					name="twitter:description"
 					content="Find and copy beautiful color palettes with ready-to-use Tailwind CSS color codes."
 				/>
-				<meta name="twitter:card" content="summary_large_image" />
+				<meta name="twitter:card" content="/twitter_preview.png" />
 			</Head>
 			<body
 				className={`${geistSans.variable} ${geistMono.variable} antialiased`}

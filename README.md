@@ -1,6 +1,7 @@
 # Tailwind Gradient Color Palette
 
 A beautiful, interactive gradient color palette project that helps developers quickly find and use gradient CSS color codes in their projects base on tailwindcss.
+![website](https://github.com/A-caibird/Tailwind-Gradient-Color-Palette/tree/main/public/website.png)
 
 ## Features
 
