@@ -3,7 +3,7 @@
 A beautiful, interactive gradient color palette project that helps developers quickly find and use gradient CSS color codes in their projects base on tailwindcss.
 
 
-![website](https://github.com/A-caibird/Tailwind-Gradient-Color-Palette/tree/main/public/website.png)
+![website](https://github.com/A-caibird/picx-images-hosting/raw/master/GitHub/Screenshot-2025-05-07-at-5.24.56 PM.491hojdw14.webp)
 
 ## Features
 
